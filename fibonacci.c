@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+//hola como estas
+//muy bien
+//jajajaa
 int main(int argc, char const *argv[]) {
 
   printf("Introduce la cantidad a imprimir\n");
